@@ -1,0 +1,2 @@
+# powershell
+scripting in powershell 
